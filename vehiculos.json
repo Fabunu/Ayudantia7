@@ -1,0 +1,50 @@
+[
+     {
+        "tipo": "Auto",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "año": 2018,
+        "precio": 15000,
+        "numero_de_puertas": 4
+      },
+      {
+        "tipo": "Auto",
+        "marca": "Ford",
+        "modelo": "Mustang",
+        "año": 2021,
+        "precio": 35000,
+        "numero_de_puertas": 2
+      },
+      {
+        "tipo": "Camion",
+        "marca": "Mercedes-Benz",
+        "modelo": "Actros",
+        "año": 2019,
+        "precio": 75000,
+        "capacidad_carga": 18
+      },
+      {
+        "tipo": "Camion",
+        "marca": "Volvo",
+        "modelo": "FH16",
+        "año": 2020,
+        "precio": 80000,
+        "capacidad_carga": 20
+      },
+      {
+        "tipo": "Bicicleta",
+        "marca": "Giant",
+        "modelo": "Talon",
+        "año": 2022,
+        "precio": 500,
+        "tipo_bici": "Montania"
+      },
+      {
+        "tipo": "Bicicleta",
+        "marca": "Specialized",
+        "modelo": "Sirrus",
+        "año": 2021,
+        "precio": 600,
+        "tipo_bici": "Ciudad"
+      }  
+]
